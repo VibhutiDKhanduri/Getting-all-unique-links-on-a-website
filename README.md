@@ -1,4 +1,4 @@
-# Getting-all-unique-links-in-a-website-and-downloading-all-unique-pdf-files-from-them-
+# Getting-all-unique-links-on-a-website-and-downloading-all-unique-pdf-files-from-them-
 
 Link to the website : https://www.omicsonline.org/archive-innovative-energy-policies-open-access.php
 
